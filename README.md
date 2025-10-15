@@ -132,9 +132,7 @@ AUTHOR
 ------------------------------------------------------------
 ```
 Dhruva
-Java Developer — Tech Consultancy Project (Feb 2025 - Dec 2025)
-Email: youremail@example.com
-LinkedIn: https://linkedin.com/in/yourprofile
+Java Developer
 ```
 ------------------------------------------------------------
 LICENSE
